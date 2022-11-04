@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe game using JavaScript
+TicTacToe game using JavaScript, HTML and CSS
 
 
 In this repo I practised:
