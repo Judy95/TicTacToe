@@ -1,13 +1,13 @@
 # TicTacToe
-TicTacToe game using JavaScript, HTML and CSS
-
+TicTacToe game using JavaScript
 
 In this repo I practised:
 
--CSS Hover Effects
+-How to use flexbox to center elements
 
--JS Game Logic
+-Using CSS grid to create layouts
 
--CSS Not Selector
+-How to use charcodes
 
--CSS Shape Building
+-How to bind click and input events in JavaScript
+
